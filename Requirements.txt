@@ -1,0 +1,10 @@
+opencv-python
+pillow
+gtts
+SpeechRecognition
+sounddevice
+numpy
+scipy
+transformers
+torch
+requests
